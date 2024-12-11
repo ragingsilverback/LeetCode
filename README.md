@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ragingsilverback/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ragingsilverback/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ragingsilverback/LeetCode/tree/master/0518-coin-change-ii) |
+| [0890-lemonade-change](https://github.com/ragingsilverback/LeetCode/tree/master/0890-lemonade-change) |
 | [2232-adding-spaces-to-a-string](https://github.com/ragingsilverback/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ragingsilverback/LeetCode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/ragingsilverback/LeetCode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
