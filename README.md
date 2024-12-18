@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ragingsilverback/LeetCode/tree/master/0027-remove-element) |
 | [0392-is-subsequence](https://github.com/ragingsilverback/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ragingsilverback/LeetCode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/ragingsilverback/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ragingsilverback/LeetCode/tree/master/0027-remove-element) |
 | [0322-coin-change](https://github.com/ragingsilverback/LeetCode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/ragingsilverback/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ragingsilverback/LeetCode/tree/master/0494-target-sum) |
