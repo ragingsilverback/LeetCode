@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/ragingsilverback/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ragingsilverback/LeetCode/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/ragingsilverback/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ragingsilverback/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/ragingsilverback/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragingsilverback/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ragingsilverback/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ragingsilverback/LeetCode/tree/master/0518-coin-change-ii) |
 | [0890-lemonade-change](https://github.com/ragingsilverback/LeetCode/tree/master/0890-lemonade-change) |
+| [0941-sort-array-by-parity](https://github.com/ragingsilverback/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2232-adding-spaces-to-a-string](https://github.com/ragingsilverback/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragingsilverback/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ragingsilverback/LeetCode/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/ragingsilverback/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
