@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ragingsilverback/LeetCode/tree/master/0027-remove-element) |
 | [0392-is-subsequence](https://github.com/ragingsilverback/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ragingsilverback/LeetCode/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/ragingsilverback/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0941-sort-array-by-parity](https://github.com/ragingsilverback/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ragingsilverback/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ragingsilverback/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/ragingsilverback/LeetCode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ragingsilverback/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/ragingsilverback/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ragingsilverback/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/ragingsilverback/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ragingsilverback/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragingsilverback/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Math
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/ragingsilverback/LeetCode/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
