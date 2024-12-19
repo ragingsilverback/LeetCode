@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ragingsilverback/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ragingsilverback/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/ragingsilverback/LeetCode/tree/master/0027-remove-element) |
 | [0392-is-subsequence](https://github.com/ragingsilverback/LeetCode/tree/master/0392-is-subsequence) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ragingsilverback/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ragingsilverback/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/ragingsilverback/LeetCode/tree/master/0027-remove-element) |
 | [0322-coin-change](https://github.com/ragingsilverback/LeetCode/tree/master/0322-coin-change) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ragingsilverback/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ragingsilverback/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ragingsilverback/LeetCode/tree/master/0890-lemonade-change) |
 ## Sorting
