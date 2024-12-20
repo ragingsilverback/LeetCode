@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ragingsilverback/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/ragingsilverback/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragingsilverback/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ragingsilverback/LeetCode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Simulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ragingsilverback/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ragingsilverback/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ragingsilverback/LeetCode/tree/master/0890-lemonade-change) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ragingsilverback/LeetCode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ragingsilverback/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ragingsilverback/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ragingsilverback/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ragingsilverback/LeetCode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Dynamic Programming
 |  |
 | ------- |
