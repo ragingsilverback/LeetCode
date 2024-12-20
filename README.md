@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ragingsilverback/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/ragingsilverback/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ragingsilverback/LeetCode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ragingsilverback/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -129,9 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ragingsilverback/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragingsilverback/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/ragingsilverback/LeetCode/tree/master/0556-next-greater-element-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ragingsilverback/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
