@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ragingsilverback/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ragingsilverback/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ragingsilverback/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2128-reverse-prefix-of-word](https://github.com/ragingsilverback/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/ragingsilverback/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/ragingsilverback/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ragingsilverback/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/ragingsilverback/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ragingsilverback/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ragingsilverback/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2128-reverse-prefix-of-word](https://github.com/ragingsilverback/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/ragingsilverback/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ragingsilverback/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String Matching
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ragingsilverback/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ragingsilverback/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ragingsilverback/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2128-reverse-prefix-of-word](https://github.com/ragingsilverback/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
