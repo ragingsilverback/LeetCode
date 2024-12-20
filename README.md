@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/ragingsilverback/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ragingsilverback/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/ragingsilverback/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ragingsilverback/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragingsilverback/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ragingsilverback/LeetCode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/ragingsilverback/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ragingsilverback/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ragingsilverback/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ragingsilverback/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ragingsilverback/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
