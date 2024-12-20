@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/ragingsilverback/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ragingsilverback/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ragingsilverback/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ragingsilverback/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/ragingsilverback/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ragingsilverback/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/ragingsilverback/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/ragingsilverback/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ragingsilverback/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Sliding Window
 |  |
 | ------- |
